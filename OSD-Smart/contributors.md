@@ -78,6 +78,7 @@
 - Sheila Pinto
 - Shweta M
 - Shweta Srinivasan
+- Shun Ting Wang
 - Soumya C
 - Sridevi Jantli
 - Srishti
